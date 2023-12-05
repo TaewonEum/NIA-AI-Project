@@ -18,4 +18,8 @@ Sample dataset과 데이터 전처리부터 시각화 및 분석 코드 제공
 
 # 분석 환경 도커 이미지
 
+Python, Pytorch, Jupyterlab 구현할 수 있는 환경
+
 Docker hub URL: 
+
+Docker image Pull & 사용 방법
