@@ -18,9 +18,15 @@
 - 생애단계(LifeCycle) 분류 모델 구축(정확도 90% 이상 달성)-GoogleNet, VGGNet, ResNet
 - 생애이슈(LifeIssue) 분류 모델 구축(정확도 90%이상 달성)- GoogleNet, VGGNet, ResNet
 
-Sample dataset과 데이터 전처리부터 시각화 및 분석 코드 제공
+Sample dataset과 데이터 품질 관리 코드, 데이터 전처리 및 모델 학습 코드 제공
 
 데이터 download: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71488
+
+# 모델 설명
+
+- GoogleNet: https://github.com/TaewonEum/GoogleNet
+- ResNet: https://github.com/TaewonEum/Resnet-in-Pytorch
+- VGGNet: https://github.com/TaewonEum/VGG-NET-in-Pyotrch
 
 # 분석 환경 도커 이미지
 
