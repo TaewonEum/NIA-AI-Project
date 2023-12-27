@@ -26,4 +26,3 @@ Sample dataset과 데이터 품질 관리 코드, 데이터 전처리 및 모델
 
 - GoogleNet: https://github.com/TaewonEum/GoogleNet
 - ResNet: https://github.com/TaewonEum/Resnet-in-Pytorch
-- VGGNet: https://github.com/TaewonEum/VGG-NET-in-Pyotrch
